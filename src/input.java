@@ -29,5 +29,7 @@ public class input
     System.out.println("Weight: " + weight);
     System.out.println("Smoker: " + smoker);
 
+
+    
     }
 }
